@@ -1,0 +1,37 @@
+Required libraries
+1) Tensorflow
+2) Pillow version 8.4.0
+3) Numpy
+6) Matplotlib
+7) cv2 (Open Computer vision)
+
+
+
+
+Instructions:
+
+Dear lecturer marking this projecct,
+
+After downloading the dataset, you will need to unzip and place the extracted file inside your C:\Python\ directory as the code is hard coded to run from that path. Example: C:\Python\2120795_StanleyLin_Orange_2112422_WaiYanAung_Apple
+
+1) If you want to run the python code(2120795_StanleyLin_Orange_2112422_WaiYanAung_Apple.ipynb) we have provided, you will have to redelete the images inside datasetv2 and datasetv3 because the code will not override the exisiting images. Images are already inside and datasetv2 and datasetv3 because we have previously run the code.
+
+2120795_StanleyLin_Orange_2112422_WaiYanAung_Apple.ipynb code contains:
+Dataspiliting
+Data preprocessing
+Image sharpening
+Model Building and Training
+Matplotlib visulization
+Model Summary
+Cv2 live detecct tesing (If you are unclear with the cv2 live detect instructions, we have explained it inside the powerpoint slide.)
+Model evaluation
+
+
+2)oau_app.py is the code for streamlit testing, this file can be opened and tested using spyder ide.
+
+3)oau_model_400_e10.hdf5 is the best trained model we have built.
+
+Thank you for marking our project.
+
+
+
